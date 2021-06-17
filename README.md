@@ -1,4 +1,4 @@
-# Revving Infra deployment from CloudFomation and Ansible.
+# Infrastructure deployment from CloudFomation and Ansible.
 
 ## Deployment using Cloudformation stack
 
